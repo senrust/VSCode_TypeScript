@@ -1,0 +1,11 @@
+{
+  "name": "ts_node",
+  "version": "1.0.0",
+  "description": "Coding TypScript enviroment for VSCode  ",
+  "main": "main.ts",
+  "author": "Yohei Osawa",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
